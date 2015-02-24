@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GridViewImages</string>
+
+    <string name="select">Scrool screen, tap to choose!</string>
+    <string name="action_settings">Settings</string>
+</resources>
